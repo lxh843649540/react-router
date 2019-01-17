@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import { withRouter } from 'react-router-dom';
+// import { withRouter } from 'react-router-dom';
 
-@withRouter
+// @withRouter
 class Item extends Component {
   constructor(props) {
     super(props);

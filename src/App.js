@@ -1,7 +1,7 @@
 import React from 'react';
 import Item from './components/Item'
 import {BrowserRouter, Route, Link} from 'react-router-dom'
-// import './App.css';
+import './App.css';
 
 const Index = () => <h2>Home</h2>;
 const About = () => <h2>About</h2>;
